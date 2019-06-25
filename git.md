@@ -112,5 +112,7 @@ git rebase master
 Como funciona o git rabse:
 
 1 - Mudanças na branch da funcionalidade são temporariamente removidas;
+
 2 - Os commits novos existentes na master são trazidos para a branch da funcionalidade;
+
 3 - Mudanças na branch da funcionalidade são novamente aplicadas na branch funcionalidade2;
