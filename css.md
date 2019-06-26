@@ -10,8 +10,6 @@ Separation of concerns:
 - Presentation: CSS
 - Behavior: JavaScript
 
----
-
 ## Selectors
 
 [Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
@@ -26,11 +24,11 @@ Specificity:
 
 [Specifishity](http://specifishity.com/specifishity.pdf)
 
-[Simple_selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors#Simple_selectors)
+[Simple selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors#Simple_selectors)
 
 [Combinators](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors#Combinators)
 
-[Attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors#Syntax)
+[Attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
 
 [Pseudo classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 
