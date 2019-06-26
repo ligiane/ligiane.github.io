@@ -1,5 +1,7 @@
 # Git
 
+## Comandos básicos
+
 Traz modificações do repositório remoto para o local, sem aplicar ao branch local:
 
 ```bash
@@ -17,6 +19,20 @@ Atalho: pull = fetch + merge:
 ```bash
 git pull
 ```
+
+Verifica o estado do repositório:
+
+```bash
+git status
+```
+
+Log de alterações:
+
+```bash
+git log --graph --oneline --decorate --all
+```
+
+## Branches
 
 Cria uma branch a partir da branch atual (master):
 
@@ -42,12 +58,6 @@ Lista as branchs do repositório local e verifica qual delas está em uso:
 git branch
 ```
 
-Verifica o estado do repositório:
-
-```bash
-git status
-```
-
 Envia a branch para o repositório remoto:
 
 ```bash
@@ -65,6 +75,8 @@ Remove uma branch no repositório local:
 ```bash
 git branch -d NOME_DA_BRANCH
 ```
+
+## Tags
 
 Cria uma tag no repositório local:
 
@@ -96,22 +108,18 @@ Remove uma tag no repositório local:
 git tag -d TAG_NAME
 ```
 
-Log de alterações:
+## Integrando branchs
 
-```bash
-git log --graph --oneline --decorate --all
-```
+A integração entre branchs pode ser feita por meio de rebase ou merge.
 
-## rebase e merge
-
-integra um commit no master na branch funcionalidade2:
+Integra um commit no master na branch funcionalidade2:
 
 ```bash
 git checkout funcionalidade2
 git rebase master
 ```
 
-Como funciona o git rabse:
+Como funciona o git rebase:
 
 1 - Mudanças na branch da funcionalidade são temporariamente removidas;
 
@@ -127,7 +135,7 @@ git merge funcionalidade2
 git push
 ```
 
-Diferenças entre git merge e git rebase
+## Diferenças entre git merge e git rebase
 
 Ambos os comandos têm o mesmo propósito: integrar mudanças de uma branch em outra. Porém cada um faz essa tarefa de uma forma diferente.
 
