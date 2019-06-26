@@ -154,6 +154,12 @@ git config --global mergetool.prompt false
 git config -l --global
 ```
 
+Executa diff com a ferramenta gráfica meld:
+
+```bash
+git difftool
+```
+
 Após entregar modificações no branch funcionalidade2:
 
 ```bash
