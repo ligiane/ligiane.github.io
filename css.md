@@ -32,4 +32,19 @@ Specificity:
 
 [Pseudo classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 
-[Pseudo elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
+### Pseudo elements
+
+[Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
+
+Generated Content with ::before and ::after
+
+```css
+p:before {
+  content: "before content - ";
+  font-weight: bold;
+}
+p:after{
+  content: " - after content";
+  font-weight: bold;
+}
+```
