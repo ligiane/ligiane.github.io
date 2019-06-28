@@ -36,15 +36,10 @@ Specificity:
 
 [Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
 
-Generated Content with ::before and ::after
+[A Whole Bunch of Amazing Stuff Pseudo Elements Can Do](https://css-tricks.com/pseudo-element-roundup/)
 
-```css
-p:before {
-  content: "before content - ";
-  font-weight: bold;
-}
-p:after{
-  content: " - after content";
-  font-weight: bold;
-}
-```
+## Generated Content
+
+[Generated Content](https://estelle.github.io/cssmastery/generated)
+
+[The Shapes of CSS](https://css-tricks.com/the-shapes-of-css/)
