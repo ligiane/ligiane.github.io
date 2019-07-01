@@ -51,3 +51,11 @@ Specificity:
 - 0-0-1: Element Selector
 
 [Specifishity](http://specifishity.com/specifishity.pdf)
+
+## Layout
+
+[Learn CSS Layout](https://learnlayout.com/)
+
+[float](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
+
+[clear](https://developer.mozilla.org/en-US/docs/Web/CSS/clear)
