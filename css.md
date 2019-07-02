@@ -77,3 +77,15 @@ The universal selector (\*) has 0 specificity.
 [float](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
 
 [clear](https://developer.mozilla.org/en-US/docs/Web/CSS/clear)
+
+## Media Queries
+
+[Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+
+[Media features](https://developer.mozilla.org/en-US/docs/Web/CSS/@media#Media_features)
+
+[CSS Media Queries - Examples](https://www.w3schools.com/css/css3_mediaqueries_ex.asp)
+
+[CSS Media Queries for Desktop, Tablet, Mobile](https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488)
+
+[Use sempre media queries baseadas no conteúdo da sua página](http://sergiolopes.org/media-queries-conteudo/)
