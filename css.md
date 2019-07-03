@@ -80,12 +80,26 @@ The universal selector (\*) has 0 specificity.
 
 ## Media Queries
 
-[Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+[Presentation](https://estelle.github.io/cssmastery/media)
 
-[Media features](https://developer.mozilla.org/en-US/docs/Web/CSS/@media#Media_features)
+[Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
 [CSS Media Queries - Examples](https://www.w3schools.com/css/css3_mediaqueries_ex.asp)
 
 [CSS Media Queries for Desktop, Tablet, Mobile](https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488)
 
 [Use sempre media queries baseadas no conteúdo da sua página](http://sergiolopes.org/media-queries-conteudo/)
+
+[@media](https://developer.mozilla.org/en-US/docs/Web/CSS/@media)
+
+[@supports](https://developer.mozilla.org/en-US/docs/Web/CSS/@supports)
+
+[@viewport](https://developer.mozilla.org/en-US/docs/Web/CSS/@viewport)
+
+[hyphens](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens)
+
+[wbr](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/wbr)
+
+[\&shy;](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens#Suggesting_line_break_opportunities)
+
+[columns](https://developer.mozilla.org/en-US/docs/Web/CSS/columns)
