@@ -80,6 +80,8 @@ The universal selector (\*) has 0 specificity.
 
 ## Media Queries
 
+[Slides](https://estelle.github.io/cssmastery/media)
+
 [Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
 [Media features](https://developer.mozilla.org/en-US/docs/Web/CSS/@media#Media_features)
@@ -90,6 +92,20 @@ The universal selector (\*) has 0 specificity.
 
 [Use sempre media queries baseadas no conteúdo da sua página](http://sergiolopes.org/media-queries-conteudo/)
 
+[@media](https://developer.mozilla.org/en-US/docs/Web/CSS/@media)
+
+[@supports](https://developer.mozilla.org/en-US/docs/Web/CSS/@supports)
+
+[@viewport](https://developer.mozilla.org/en-US/docs/Web/CSS/@viewport)
+
+[hyphens](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens)
+
+[wbr](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/wbr)
+
+[\&shy;](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens#Suggesting_line_break_opportunities)
+
+[columns](https://developer.mozilla.org/en-US/docs/Web/CSS/columns)
+
 ## Colors
 
 [Slides](https://estelle.github.io/cssmastery/colors)
@@ -97,3 +113,4 @@ The universal selector (\*) has 0 specificity.
 [Colors - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
 
 [HSLA color picker](http://www.standardista.com/hsla-color-picker/)
+
