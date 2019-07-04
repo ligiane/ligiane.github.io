@@ -4,7 +4,7 @@
 
 [W3C Reference](https://www.w3schools.com/cssref/)
 
-[Estelle Presentation](https://estelle.github.io/cssmastery)
+[Slides](https://estelle.github.io/cssmastery)
 
 ## Separation of concerns
 
@@ -89,3 +89,11 @@ The universal selector (\*) has 0 specificity.
 [CSS Media Queries for Desktop, Tablet, Mobile](https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488)
 
 [Use sempre media queries baseadas no conteúdo da sua página](http://sergiolopes.org/media-queries-conteudo/)
+
+## Colors
+
+[Slides](https://estelle.github.io/cssmastery/colors)
+
+[Colors - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
+
+[HSLA color picker](http://www.standardista.com/hsla-color-picker/)
