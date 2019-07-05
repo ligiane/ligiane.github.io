@@ -106,7 +106,7 @@ The universal selector (\*) has 0 specificity.
 
 [columns](https://developer.mozilla.org/en-US/docs/Web/CSS/columns)
 
-## Colors
+## Colors and appeareance
 
 [Slides](https://estelle.github.io/cssmastery/colors)
 
@@ -114,3 +114,12 @@ The universal selector (\*) has 0 specificity.
 
 [HSLA color picker](http://www.standardista.com/hsla-color-picker/)
 
+## Appearance
+
+[Appearance](https://developer.mozilla.org/en-US/docs/Web/CSS/appearance)
+
+## Flexbox
+
+[Basic concepts of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+
+[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
