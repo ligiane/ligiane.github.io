@@ -120,6 +120,10 @@ The universal selector (\*) has 0 specificity.
 
 ## Flexbox
 
+[Slides](https://estelle.github.io/cssmastery/flexbox/)
+
+[flex-wrap](https://estelle.github.io/cssmastery/flexbox/#slide31)
+
 [Basic concepts of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 
 [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
