@@ -122,14 +122,14 @@ The universal selector (\*) has 0 specificity.
 
 <https://estelle.github.io/cssmastery/flexbox>
 
-[Basic concepts of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+<https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox>
 
-[Flexbox - Codepen](https://codepen.io/rikstar/post/flexbox)
+<https://codepen.io/rikstar/post/flexbox>
 
-[Flexbox playground - Codepen](https://codepen.io/enxaneta/full/adLPwv/)
+<https://codepen.io/enxaneta/full/adLPwv/>
 
-[Flexbox Properties Demonstration - Codepen](https://codepen.io/justd/full/yydezN/)
+<https://codepen.io/justd/full/yydezN/>
 
-[MDN - flex property](https://developer.mozilla.org/en-US/docs/Web/CSS/flex)
+<https://developer.mozilla.org/en-US/docs/Web/CSS/flex>
 
-[flex property - Codepen](https://codepen.io/MarkAlmond/pen/zFouh)
+<https://codepen.io/MarkAlmond/pen/zFouh>
