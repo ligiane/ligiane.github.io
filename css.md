@@ -124,6 +124,8 @@ The universal selector (\*) has 0 specificity.
 
 [Basic concepts of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 
-[flex property](https://developer.mozilla.org/en-US/docs/Web/CSS/flex)
+[Codepen - Flexbox](https://codepen.io/rikstar/post/flexbox)
 
-[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+[codepen - Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/)
+
+[codepen - Flexbox Properties Demonstration](https://codepen.io/justd/full/yydezN/)
