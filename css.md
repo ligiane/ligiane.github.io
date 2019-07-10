@@ -1,10 +1,12 @@
 # CSS
 
-[MDN Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+[MDN - CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
-[W3C Reference](https://www.w3schools.com/cssref/)
+[MDN - CSS Concepts](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Concepts)
 
-[Slides](https://estelle.github.io/cssmastery)
+[W3C - CSS Reference](https://www.w3schools.com/cssref/)
+
+[Estelle - Slides](https://estelle.github.io/cssmastery)
 
 ## Separation of concerns
 
@@ -14,21 +16,23 @@
 
 ## Selectors
 
-[MDN Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
+[MDN - CSS selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
 
-[W3C Reference](https://www.w3schools.com/cssref/css_selectors.asp)
+[W3C - CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp)
 
 [CSS Diner](https://flukeout.github.io/)
 
+[MDN - Attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors#Syntax)
+
+[MDN - Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+
+[MDN - Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
+
+[MDN - CSS data types](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Types)
+
+[MDN - at-rule](https://developer.mozilla.org/en-US/docs/Web/CSS/At-rule)
+
 Selectores geralmente devem ser lidos de trás pra frente.
-
-[Simple selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors#Simple_selectors)
-
-[Combinators](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors#Combinators)
-
-[Attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors)
-
-[Pseudo classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 
 ### Pseudo elements
 
