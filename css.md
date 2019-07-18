@@ -1,12 +1,12 @@
 # CSS
 
-[MDN - CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+[CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
-[MDN - CSS Concepts](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Concepts)
+[CSS Reference](https://www.w3schools.com/cssref/)
 
-[W3C - CSS Reference](https://www.w3schools.com/cssref/)
+[CSS Concepts](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Concepts)
 
-[Estelle - Slides](https://estelle.github.io/cssmastery)
+[Slides](https://estelle.github.io/cssmastery)
 
 ## Separation of concerns
 
@@ -16,23 +16,23 @@
 
 ## Selectors
 
-[MDN - CSS selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
+[CSS selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
 
-[W3C - CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp)
+[CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp)
 
 [CSS Diner](https://flukeout.github.io/)
 
-[MDN - Attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors#Syntax)
+[Attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors#Syntax)
 
-[MDN - Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+[Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 
-[MDN - Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
+[Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
 
-[MDN - CSS data types](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Types)
+[CSS data types](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Types)
 
-[MDN - at-rule](https://developer.mozilla.org/en-US/docs/Web/CSS/At-rule)
+[at-rule](https://developer.mozilla.org/en-US/docs/Web/CSS/At-rule)
 
-Selectores geralmente devem ser lidos de trás pra frente.
+Seletores geralmente devem ser lidos de trás pra frente.
 
 ### Pseudo elements
 
@@ -124,12 +124,18 @@ The universal selector (\*) has 0 specificity.
 
 ## Flexbox
 
-[MDN - Basic concepts of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+[Basic concepts of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 
-[MDN - flex property](https://developer.mozilla.org/en-US/docs/Web/CSS/flex)
+[flex](https://developer.mozilla.org/en-US/docs/Web/CSS/flex)
 
-[Codepen - Flexbox](https://codepen.io/rikstar/post/flexbox)
+[Flexbox](https://codepen.io/rikstar/post/flexbox)
 
-[Codepen - Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/)
+[Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/)
 
-[Codepen - Flexbox Properties Demonstration](https://codepen.io/justd/full/yydezN/)
+[Flexbox Properties Demonstration](https://codepen.io/justd/full/yydezN/)
+
+## Tables
+
+[Slides](https://estelle.github.io/cssmastery/tables)
+
+[Simple Responsive Table in CSS](https://codepen.io/AllThingsSmitty/pen/MyqmdM)

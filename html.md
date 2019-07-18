@@ -1,14 +1,6 @@
 # HTML
 
-## Elements
-
 [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-
-## emmet
-
-[cheat-sheet](https://docs.emmet.io/cheat-sheet/)
-
-[snippets](https://github.com/emmetio/emmet/blob/master/lib/snippets.json)
 
 ## dialog
 
@@ -21,3 +13,33 @@
 [list](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#list)
 
 [Dropdown with searchable text](https://codepen.io/ananyaneogi/pen/BgZMJM)
+
+## table
+
+Structure of a Table:
+
+```html
+<table>
+  <caption></caption>
+  <colgroup>
+    <col />
+  </colgroup>
+  <thead>
+    <tr>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <th></th>
+    </tr>
+  </tfoot>
+</table>
+```
+
+[colgroup](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/colgroup)
