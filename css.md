@@ -1,12 +1,12 @@
 # CSS
 
+[Slides](https://estelle.github.io/cssmastery)
+
 [CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 [CSS Reference](https://www.w3schools.com/cssref/)
 
 [CSS Concepts](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Concepts)
-
-[Slides](https://estelle.github.io/cssmastery)
 
 ## Separation of concerns
 
@@ -15,6 +15,8 @@
 - Behavior: JavaScript
 
 ## Selectors
+
+[Slides](https://estelle.github.io/cssmastery/selectors)
 
 [CSS selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
 
@@ -39,12 +41,6 @@ Seletores geralmente devem ser lidos de trás pra frente.
 [Pseudo elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
 
 [A Whole Bunch of Amazing Stuff Pseudo Elements Can Do](https://css-tricks.com/pseudo-element-roundup/)
-
-## Generated Content
-
-[Generated Content](https://estelle.github.io/cssmastery/generated)
-
-[The Shapes of CSS](https://css-tricks.com/the-shapes-of-css/)
 
 ## Cascade and Inheritance
 
@@ -73,6 +69,12 @@ The universal selector (\*) has 0 specificity.
 [Cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance)
 
 [Specifishity](http://specifishity.com/specifishity.pdf)
+
+## Generated Content
+
+[Slides](https://estelle.github.io/cssmastery/generated)
+
+[The Shapes of CSS](https://css-tricks.com/the-shapes-of-css/)
 
 ## Layout
 
@@ -137,5 +139,3 @@ The universal selector (\*) has 0 specificity.
 ## Tables
 
 [Slides](https://estelle.github.io/cssmastery/tables)
-
-[Simple Responsive Table in CSS](https://codepen.io/AllThingsSmitty/pen/MyqmdM)
