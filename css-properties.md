@@ -2,58 +2,56 @@
 
 ## Flexbox container properties
 
-### display
+- display
 
-Sets the container and make it block or inline. Values: flex (block container), inline-flex (inline container).
+  Sets the container and make it block or inline. Values: flex (block container), inline-flex (inline container).
 
-### flex-flow
+- flex-flow
 
-Shorthand for flex-direction and flex-wrap.
+  Shorthand for flex-direction and flex-wrap.
 
-### flex-direction
+- flex-direction
 
-Sets how the flex items are placed in the flex container, defining the main axis and the direction. Values: row, row-reverse, column, column-reverse.
+  Sets how the flex items are placed in the flex container, defining the main axis and the direction. Values: row, row-reverse, column, column-reverse.
 
-### flex-wrap
+- flex-wrap
 
-Sets if the flex items are forced onto one line (nowrap) or can wrap onto multiple lines (wrap). Values: nowrap, wrap, wrap-reverse.
+  Sets if the flex items are forced onto one line (nowrap) or can wrap onto multiple lines (wrap). Values: nowrap, wrap, wrap-reverse.
 
-## justify-content
+- justify-content
 
-Aligns flex items along the main axis. Values: flex-start, flex-end, center, space-between, space-around, space-evenly.
+  Aligns flex items along the main axis. Values: flex-start, flex-end, center, space-between, space-around, space-evenly.
 
-## align-items
+- align-items
 
-Align items along the cross axis. Values: flex-start, flex-end, center, baseline, stretch.
+  Align items along the cross axis. Values: flex-start, flex-end, center, baseline, stretch.
 
-## align-content
+- align-content
 
-Sets ditribution of space between items along cross axis. Only applies to multi-line flex containers. Values: flex-start, flex-end, center, space-between, space-around, stretch, space-evenly.
-
----
+  Sets ditribution of space between items along cross axis. Only applies to multi-line flex containers. Values: flex-start, flex-end, center, space-between, space-around, stretch, space-evenly.
 
 ## Flexbox items properties
 
-## flex
+- flex
 
-Shorthand for flex-grow, flex-shrink and flex-basis.
+  Shorthand for flex-grow, flex-shrink and flex-basis.
 
-## flex-grow
+- flex-grow
 
-Sets how much of available space the flex container the flex item will use. Values: number.
+  Sets how much of available space the flex container the flex item will use. Values: number.
 
-## flex-shrink
+- flex-shrink
 
-If the size of all flex items is larger than the flex container, the item shrinks based on flex-shrink property. Values: number.
+  If the size of all flex items is larger than the flex container, the item shrinks based on flex-shrink property. Values: number.
 
-## flex-basis
+- flex-basis
 
-Sets the initial size of a flex item. Values: length, percentage, auto.
+  Sets the initial size of a flex item. Values: length, percentage, auto.
 
-## align-self
+- align-self
 
-Overrides container align-items value. Values: auto, flex-start, flex-end, center, baseline, stretch.
+  Overrides container align-items value. Values: auto, flex-start, flex-end, center, baseline, stretch.
 
-## order
+- order
 
-The default value is 0. Anything lower 0 come before.
+  The default value is 0. Anything lower 0 come before.
