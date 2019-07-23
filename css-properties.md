@@ -54,4 +54,4 @@
 
 - order
 
-  The default value is 0. Anything lower 0 come before.
+  The default value is 0. Anything lower than 0 come before.
