@@ -4,6 +4,8 @@
 
 ## [CSS](css.md)
 
+## [CSS properties](css-properties.md)
+
 ## [JavaScript](javascript.md)
 
 ## [Git](git.md)
