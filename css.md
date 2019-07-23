@@ -126,6 +126,20 @@ The universal selector (\*) has 0 specificity.
 
 ## Flexbox
 
+    Components of Flexbox
+
+    1 - Creation: display
+
+    2 - Direction: flex-flow (flex-direction, flex-wrap)
+
+    3 - Alignment: justify-content, align-items, align-self, align-content
+
+    4 - Ordering: order
+
+    5 - Flexibility: flex (flex-grow, flex-shrink, flex-basis)
+
+[Slides](https://estelle.github.io/cssmastery/flexbox)
+
 [Basic concepts of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 
 [flex](https://developer.mozilla.org/en-US/docs/Web/CSS/flex)
