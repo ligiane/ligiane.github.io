@@ -155,3 +155,9 @@ The universal selector (\*) has 0 specificity.
 [Slides](https://estelle.github.io/cssmastery/tables)
 
 ## Grid CSS
+
+[Slides](https://estelle.github.io/cssmastery/grid)
+
+[CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+
+[Adeus Flexbox, bem vindo CSS Grid Layout!](https://codepen.io/simoneas02/post/grid-layout)

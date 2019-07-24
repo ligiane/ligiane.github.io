@@ -1,6 +1,8 @@
 # CSS Properties
 
-## Flexbox container properties
+## Flexbox
+
+**Container properties:**
 
 - display
 
@@ -63,7 +65,7 @@
   - stretch
   - space-evenly
 
-## Flexbox items properties
+**Items properties:**
 
 - flex
 
@@ -105,3 +107,32 @@
   The default value is 0. Anything lower than 0 come before.
 
   - integer
+
+## Grid
+
+**Parent properties:**
+
+- display
+
+  Sets the parent and make it block or inline.
+
+  - grid
+  - inline-grid
+
+grid-template-columns
+grid-template-rows
+grid-template-areas
+grid-template (shorthand)
+grid-column-gap
+grid-row-gap
+grid-gap
+justify-items
+align-items
+justify-content
+align-content
+grid-auto-columns
+grid-auto-rows
+grid-auto-flow
+grid
+
+**Child properties:**
