@@ -119,7 +119,11 @@
   - grid
   - inline-grid
 
-grid-template-columns
+- grid-template-columns
+
+  Sets line names and track sizing functions of the grid columns.
+
+
 grid-template-rows
 grid-template-areas
 grid-template (shorthand)
