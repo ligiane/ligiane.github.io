@@ -112,24 +112,23 @@
 
 **Parent properties:**
 
-- display
-
-  Sets the parent and make it block or inline.
+- display: Sets the parent and make it block or inline.
 
   - grid
   - inline-grid
 
-- grid-template-columns
+- grid-template-columns: Sets line names and track sizing functions of the grid columns.
 
-  Sets line names and track sizing functions of the grid columns.
+- grid-template-rows
 
+- grid-gap
 
-grid-template-rows
+- grid-column-gap
+
+- grid-row-gap
+
 grid-template-areas
 grid-template (shorthand)
-grid-column-gap
-grid-row-gap
-grid-gap
 justify-items
 align-items
 justify-content

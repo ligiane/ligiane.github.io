@@ -162,6 +162,6 @@ The universal selector (\*) has 0 specificity.
 
 [Adeus Flexbox, bem vindo CSS Grid Layout!](https://codepen.io/simoneas02/post/grid-layout)
 
-https://css-tricks.com/snippets/css/complete-guide-grid/
+[Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-s
+[Do it!](https://estelle.github.io/cssmastery/grid/files/doit1.html)
