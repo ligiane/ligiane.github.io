@@ -150,6 +150,8 @@ The universal selector (\*) has 0 specificity.
 
 [Flexbox Properties Demonstration](https://codepen.io/justd/full/yydezN/)
 
+https://codepip.com/games/flexbox-froggy/
+
 ## Tables
 
 [Slides](https://estelle.github.io/cssmastery/tables)
@@ -160,8 +162,18 @@ The universal selector (\*) has 0 specificity.
 
 [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 
+https://gridbyexample.com/
+
+https://labs.jensimmons.com/
+
 [Adeus Flexbox, bem vindo CSS Grid Layout!](https://codepen.io/simoneas02/post/grid-layout)
 
 [Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 [Do it!](https://estelle.github.io/cssmastery/grid/files/doit1.html)
+
+https://mozilladevelopers.github.io/playground/css-grid
+
+https://cssgridgarden.com/
+
+https://github.com/FrontendMasters/fm-snippets/blob/master/2018-01-31-css-in-depth-v2/fem-cssindepthv2-9k.css
