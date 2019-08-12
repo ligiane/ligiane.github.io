@@ -8,6 +8,8 @@
 
 [CSS Concepts](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Concepts)
 
+[CSS properties](css-properties.md) 
+
 ## Separation of concerns
 
 - Content: HTML
