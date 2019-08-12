@@ -1,12 +1,12 @@
 # CSS
 
-[Slides](https://estelle.github.io/cssmastery)
+[Devdocs](https://devdocs.io/css/)
 
-[CSS reference - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+[Keyword index - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index)
 
 [CSS Reference - W3C](https://www.w3schools.com/cssref/)
 
-[CSS Concepts - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Concepts)
+[Slides - Estelle Weyl](https://estelle.github.io/cssmastery)
 
 ## Selectors
 
