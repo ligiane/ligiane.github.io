@@ -6,7 +6,7 @@
 
 [CSS Reference - W3C](https://www.w3schools.com/cssref/)
 
-[Slides - Estelle Weyl](https://estelle.github.io/cssmastery)
+[Slides](https://estelle.github.io/cssmastery)
 
 ## Selectors
 
@@ -14,7 +14,7 @@
 
 [Cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance)
 
-[Slides - Estelle Weyl](https://estelle.github.io/cssmastery/selectors/#slide1)
+[Slides](https://estelle.github.io/cssmastery/selectors/#slide1)
 
 [Specifishity](http://specifishity.com/specifishity.pdf)
 
@@ -40,7 +40,7 @@
 
 ## Media Queries
 
-[Slides - Estelle Weyl](https://estelle.github.io/cssmastery/media)
+[Slides](https://estelle.github.io/cssmastery/media)
 
 [Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
@@ -96,20 +96,16 @@ Components:
 
 [Slides](https://estelle.github.io/cssmastery/grid)
 
-[CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+[CSS Grid Layout - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 
-https://gridbyexample.com/
-
-https://labs.jensimmons.com/
+[Grid by Example](https://gridbyexample.com/examples)
 
 [Adeus Flexbox, bem vindo CSS Grid Layout!](https://codepen.io/simoneas02/post/grid-layout)
 
-[Complete Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
+[A Complete Guide to Grid CSS](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-[Do it!](https://estelle.github.io/cssmastery/grid/files/doit1.html)
+[Do it! slide](https://estelle.github.io/cssmastery/grid/files/doit1.html)
 
-https://mozilladevelopers.github.io/playground/css-grid
+[Introduction to CSS grid layout](https://mozilladevelopers.github.io/playground/css-grid)
 
-https://cssgridgarden.com/
-
-https://github.com/FrontendMasters/fm-snippets/blob/master/2018-01-31-css-in-depth-v2/fem-cssindepthv2-9k.css
+[CSS Grid Garden Game](https://cssgridgarden.com/)
