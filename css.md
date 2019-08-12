@@ -14,6 +14,8 @@
 
 [Cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance)
 
+[Slides - Estelle Weyl](https://estelle.github.io/cssmastery/selectors/#slide1)
+
 [Specifishity](http://specifishity.com/specifishity.pdf)
 
 [CSS Diner](https://flukeout.github.io/)
@@ -24,9 +26,7 @@
 
 [A Whole Bunch of Amazing Stuff Pseudo Elements Can Do](https://css-tricks.com/pseudo-element-roundup/)
 
-## Generated Content
-
-[Slides](https://estelle.github.io/cssmastery/generated)
+[Generated Content](https://estelle.github.io/cssmastery/generated)
 
 [The Shapes of CSS](https://css-tricks.com/the-shapes-of-css/)
 
@@ -40,39 +40,23 @@
 
 ## Media Queries
 
-[Slides](https://estelle.github.io/cssmastery/media)
+[Slides - Estelle Weyl](https://estelle.github.io/cssmastery/media)
 
 [Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
-
-[Media features](https://developer.mozilla.org/en-US/docs/Web/CSS/@media#Media_features)
 
 [CSS Media Queries - Examples](https://www.w3schools.com/css/css3_mediaqueries_ex.asp)
 
 [CSS Media Queries for Desktop, Tablet, Mobile](https://gist.github.com/gokulkrishh/242e68d1ee94ad05f488)
 
-[Use sempre media queries baseadas no conteúdo da sua página](http://sergiolopes.org/media-queries-conteudo/)
-
 [@media](https://developer.mozilla.org/en-US/docs/Web/CSS/@media)
 
 [@supports](https://developer.mozilla.org/en-US/docs/Web/CSS/@supports)
 
-[@viewport](https://developer.mozilla.org/en-US/docs/Web/CSS/@viewport)
-
-[hyphens](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens)
-
-[wbr](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/wbr)
-
-[\&shy;](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens#Suggesting_line_break_opportunities)
-
-[columns](https://developer.mozilla.org/en-US/docs/Web/CSS/columns)
-
-## Colors and appeareance
+## Colors
 
 [Slides](https://estelle.github.io/cssmastery/colors)
 
 [Colors - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value)
-
-[HSLA color picker](http://www.standardista.com/hsla-color-picker/)
 
 ## Appearance
 
@@ -80,31 +64,29 @@
 
 ## Flexbox
 
-    Components of Flexbox
+Components:
 
-    1 - Creation: display
+1 - Creation: display
 
-    2 - Direction: flex-flow (flex-direction, flex-wrap)
+2 - Direction: flex-flow (flex-direction, flex-wrap)
 
-    3 - Alignment: justify-content, align-items, align-self, align-content
+3 - Alignment: justify-content, align-items, align-self, align-content
 
-    4 - Ordering: order
+4 - Ordering: order
 
-    5 - Flexibility: flex (flex-grow, flex-shrink, flex-basis)
+5 - Flexibility: flex (flex-grow, flex-shrink, flex-basis)
 
 [Slides](https://estelle.github.io/cssmastery/flexbox)
 
 [Basic concepts of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 
-[flex](https://developer.mozilla.org/en-US/docs/Web/CSS/flex)
+[Flexbox - Codepen blog](https://codepen.io/rikstar/post/flexbox)
 
-[Flexbox](https://codepen.io/rikstar/post/flexbox)
+[Flexbox playground - Codepen](https://codepen.io/enxaneta/full/adLPwv/)
 
-[Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/)
+[Flexbox Properties Demonstration - Codepen](https://codepen.io/justd/full/yydezN/)
 
-[Flexbox Properties Demonstration](https://codepen.io/justd/full/yydezN/)
-
-https://codepip.com/games/flexbox-froggy/
+[Flexbox Froggy Game](https://codepip.com/games/flexbox-froggy/)
 
 ## Tables
 
