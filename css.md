@@ -2,19 +2,11 @@
 
 [Slides](https://estelle.github.io/cssmastery)
 
-[CSS reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+[CSS reference - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
-[CSS Reference](https://www.w3schools.com/cssref/)
+[CSS Reference - W3C](https://www.w3schools.com/cssref/)
 
-[CSS Concepts](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Concepts)
-
-[CSS properties](css-properties.md) 
-
-## Separation of concerns
-
-- Content: HTML
-- Presentation: CSS
-- Behavior: JavaScript
+[CSS Concepts - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Concepts)
 
 ## Selectors
 
