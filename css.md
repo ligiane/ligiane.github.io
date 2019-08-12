@@ -12,45 +12,17 @@
 
 [CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp)
 
+[Cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance)
+
+[Specifishity](http://specifishity.com/specifishity.pdf)
+
 [CSS Diner](https://flukeout.github.io/)
 
 [Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 
 [Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
 
-### Pseudo elements
-
-[Pseudo elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
-
 [A Whole Bunch of Amazing Stuff Pseudo Elements Can Do](https://css-tricks.com/pseudo-element-roundup/)
-
-## Cascade and Inheritance
-
-Order:
-
-1 - Importance (!important)
-
-2 - Specificity
-
-3 - Source order
-
-Specificity:
-
-- 1 0 0 0: style attribute
-
-- 0 1 0 0: each ID selector (#)
-
-- 0 0 1 0: each class selector (.), attribute selector ([]), or pseudo-class (:)
-
-- 0 0 0 1: each element selector or pseudo-element (::)
-
-The universal selector (\*) has 0 specificity.
-
-[Cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade)
-
-[Cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance)
-
-[Specifishity](http://specifishity.com/specifishity.pdf)
 
 ## Generated Content
 
