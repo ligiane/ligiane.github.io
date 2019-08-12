@@ -10,25 +10,13 @@
 
 ## Selectors
 
-[Slides](https://estelle.github.io/cssmastery/selectors)
-
-[CSS selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
-
 [CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp)
 
 [CSS Diner](https://flukeout.github.io/)
 
-[Attribute selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors#Syntax)
-
 [Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 
 [Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
-
-[CSS data types](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Types)
-
-[at-rule](https://developer.mozilla.org/en-US/docs/Web/CSS/At-rule)
-
-Seletores geralmente devem ser lidos de trás pra frente.
 
 ### Pseudo elements
 
