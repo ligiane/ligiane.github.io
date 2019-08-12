@@ -109,3 +109,15 @@ Components:
 [Introduction to CSS grid layout](https://mozilladevelopers.github.io/playground/css-grid)
 
 [CSS Grid Garden Game](https://cssgridgarden.com/)
+
+## Backgrounds & Borders
+
+[Slides](https://estelle.github.io/cssmastery/borders/)
+
+## Transforms
+
+[Slides](https://estelle.github.io/cssmastery/transforms)
+
+## Transitions and Animations
+
+[Slides](https://estelle.github.io/cssmastery/animations/)
