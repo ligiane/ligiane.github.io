@@ -107,3 +107,12 @@
 ## Transitions and Animations
 
 [Slides](https://estelle.github.io/cssmastery/animations/)
+
+
+## clip-path
+
+[clip-path - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/clip-path)
+
+[Clippy tool](https://bennettfeely.com/clippy/)
+
+[CSS and SVG Masks - Codepen](https://codepen.io/yoksel/full/fsdbu/)
