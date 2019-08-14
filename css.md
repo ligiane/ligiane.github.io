@@ -64,21 +64,11 @@
 
 ## Flexbox
 
-Components:
-
-1 - Creation: display
-
-2 - Direction: flex-flow (flex-direction, flex-wrap)
-
-3 - Alignment: justify-content, align-items, align-self, align-content
-
-4 - Ordering: order
-
-5 - Flexibility: flex (flex-grow, flex-shrink, flex-basis)
-
 [Slides](https://estelle.github.io/cssmastery/flexbox)
 
 [Basic concepts of flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
+
+[A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 [Flexbox - Codepen blog](https://codepen.io/rikstar/post/flexbox)
 
@@ -100,13 +90,9 @@ Components:
 
 [Grid by Example](https://gridbyexample.com/examples)
 
-[Adeus Flexbox, bem vindo CSS Grid Layout!](https://codepen.io/simoneas02/post/grid-layout)
-
 [A Complete Guide to Grid CSS](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-[Do it! slide](https://estelle.github.io/cssmastery/grid/files/doit1.html)
-
-[Introduction to CSS grid layout](https://mozilladevelopers.github.io/playground/css-grid)
+[Introduction to CSS Grid Layout](https://mozilladevelopers.github.io/playground/css-grid)
 
 [CSS Grid Garden Game](https://cssgridgarden.com/)
 
