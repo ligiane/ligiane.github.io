@@ -4,7 +4,7 @@
 
 ## [CSS](css.md)
 
-## [JavaScript](javascript.md)
+## [JS](js.md)
 
 ## [Inglês](inglês.md)
 
