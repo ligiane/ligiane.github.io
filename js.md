@@ -9,3 +9,18 @@
 [Deep JS Foundations - Kyle Simpson - exercises](https://static.frontendmasters.com/resources/2019-03-07-deep-javascript-v2/deep-js-foundations-v2-exercises.zip)
 
 [You Don't Know JS](https://github.com/getify/you-dont-know-js)
+
+
+## Perls
+
+NaN is the only value that is not equal to itself.  
+
+```javascript
+NaN === NaN; // false
+```
+
+expr1 && expr2: Returns expr1 if it can be converted to false; otherwise, returns expr2.
+
+```javascript
+0 && true // 0
+```
