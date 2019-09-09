@@ -10,6 +10,9 @@
 
 [You Don't Know JS](https://github.com/getify/you-dont-know-js)
 
+[JavaScript: From Fundamentals to Functional JS, v2 - 1](https://slides.com/bgando/f2f-final-day-1)
+
+[JavaScript: From Fundamentals to Functional JS, v2 - 2](https://slides.com/bgando/f2f-final-day-2)
 
 ## Perls
 
