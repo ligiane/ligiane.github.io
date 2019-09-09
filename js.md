@@ -2,9 +2,9 @@
 
 [Spec](https://www.ecma-international.org/ecma-262/9.0/index.html)
 
-[Getting Into JS - Kyle Simpson](https://static.frontendmasters.com/resources/2019-05-08-getting-into-javascript/getting-into-javascript.pdf)
+[Getting Into JS - Kyle Simpson](js/getting-into-javascript.pdf)
 
-[Deep JS Foundations - Kyle Simpson](https://static.frontendmasters.com/resources/2019-03-07-deep-javascript-v2/deep-js-foundations-v2.pdf)
+[Deep JS Foundations - Kyle Simpson](js/deep-js-foundations-v2.pdf)
 
 [Deep JS Foundations - Kyle Simpson - exercises](https://static.frontendmasters.com/resources/2019-03-07-deep-javascript-v2/deep-js-foundations-v2-exercises.zip)
 
