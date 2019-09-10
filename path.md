@@ -1,7 +1,5 @@
 # Path
 
-## To do
-
 [Semantic HTML](https://www.pluralsight.com/courses/semantic-html-2329)
 
 [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
