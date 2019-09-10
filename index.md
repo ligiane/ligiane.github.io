@@ -1,5 +1,7 @@
 # Index
 
+## [Path](path.md)
+
 ## [HTML](html.md)
 
 ## [CSS](css.md)
