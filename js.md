@@ -14,6 +14,8 @@
 
 [JavaScript: From Fundamentals to Functional JS, v2 - 2](https://slides.com/bgando/f2f-final-day-2)
 
+[Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
+
 ## Regex
 
 [Regex Tutorial: Beginners Guide to Regular Expressions using JavaScript](https://medium.com/@mwarfa/regex-tutorial-beginners-guide-to-regular-expressions-using-javascript-1593babb4bf8)
