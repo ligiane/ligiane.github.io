@@ -24,4 +24,6 @@
 
 ## [Data Science](data-science.md)
 
+## [zsh](zsh.md)
+
 ## [Inglês](inglês.md)
