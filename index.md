@@ -8,6 +8,8 @@
 
 ## [JS](js.md)
 
+## VSCode (vscode.md)
+
 ## [Aangular](angular.md)
 
 ## [React](react.md)

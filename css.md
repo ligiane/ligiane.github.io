@@ -98,6 +98,8 @@
 
 [CSS Grid Garden Game](https://cssgridgarden.com/)
 
+[CSS Grid: illustrated introduction](https://dev.to/mustapha/css-grid-illustrated-introduction-52l5)
+
 ## Backgrounds & Borders
 
 [Slides](https://estelle.github.io/cssmastery/borders/)
@@ -136,4 +138,12 @@ git reset --hard origin/master
 * * * * * * * { background-color: rgba(255,0,0,.2); }
 * * * * * * * * { background-color: rgba(0,255,0,.2); }
 * * * * * * * * * { background-color: rgba(0,0,255,.2); }
+```
+
+## Using CSS to highlight images with no alt tags
+
+```css
+img:not([alt]) {
+  filter: grayscale(100%);
+}
 ```
