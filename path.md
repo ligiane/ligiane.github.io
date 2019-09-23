@@ -1,12 +1,12 @@
 # Path
 
+[You Don't Know JS – Kyle Simpson](https://play.google.com/books/reader?id=qY99JAAAAEAJ)
+
 [Semantic HTML](https://www.pluralsight.com/courses/semantic-html-2329)
 
 [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
 
 [CSS3 - The Missing Manual - David Sawyer McFarland](https://play.google.com/books/reader?id=izfMIwAAAEAJ)
-
-[You Don't Know JS – Kyle Simpson](https://play.google.com/books/reader?id=qY99JAAAAEAJ)
 
 [HTML5 - The Missing Manual - Matthew MacDonald](https://play.google.com/books/reader?id=ijfMIwAAAEAJ)
 
