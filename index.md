@@ -10,7 +10,7 @@
 
 ## [VSCode](vscode.md)
 
-## [Aangular](angular.md)
+## [Angular](angular.md)
 
 ## [React](react.md)
 
