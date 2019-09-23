@@ -1,6 +1,6 @@
 # Path
 
-[You Don't Know JS – Kyle Simpson](https://play.google.com/books/reader?id=qY99JAAAAEAJ)
+[You Don't Know JS – Kyle Simpson](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
 
 [Semantic HTML](https://www.pluralsight.com/courses/semantic-html-2329)
 
