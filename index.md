@@ -8,7 +8,7 @@
 
 ## [JS](js.md)
 
-## [VSCode](vscode.md)
+## [Tools](tools.md)
 
 ## [Angular](angular.md)
 
