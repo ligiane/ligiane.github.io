@@ -1,7 +1,5 @@
 # Index
 
-## [Path](path.md)
-
 ## [HTML](html.md)
 
 ## [CSS](css.md)
@@ -26,4 +24,6 @@
 
 ## [zsh](zsh.md)
 
-## [Inglês](inglês.md)
+---
+
+## [Path](path.md)
