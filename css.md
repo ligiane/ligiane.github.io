@@ -1,5 +1,7 @@
 # CSS
 
+[CSS first steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
+
 [Reference - Codrops](https://tympanus.net/codrops/css_reference/)
 
 [Devdocs](https://devdocs.io/css/)
