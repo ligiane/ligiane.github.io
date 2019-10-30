@@ -1,27 +1,25 @@
 # Index
 
-## [A11y](a11y.md)
+## [a11y](a11y.md)
 
-## [Angular](angular.md)
+## [angular](angular.md)
 
-## [CSS](css.md)
+## [css](css.md)
 
-## [Data Science](data-science.md)
+## [data science](data-science.md)
 
-## [Design](design.md)
+## [design](design.md)
 
-## [Git](git.md)
+## [git](git.md)
 
-## [HTML](html.md)
+## [html](html.md)
 
-## [JS](js.md)
+## [js](js.md)
 
-## [Path](path.md)
+## [react](react.md)
 
-## [React](react.md)
+## [sass](sass.md)
 
-## [Sass](sass.md)
-
-## [Ressources](resources.md)
+## [ressources](resources.md)
 
 ## [zsh](zsh.md)
