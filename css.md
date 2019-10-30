@@ -114,7 +114,6 @@
 
 [Slides](https://estelle.github.io/cssmastery/animations/)
 
-
 ## clip-path
 
 [clip-path - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/clip-path)
@@ -123,23 +122,38 @@
 
 [CSS and SVG Masks - Codepen](https://codepen.io/yoksel/full/fsdbu/)
 
-
-git reset --hard origin/master
-
 ## background-color hack to show page elemens
 
 [My favorite CSS hack](https://dev.to/gajus/my-favorite-css-hack-32g3)
 
 ```css
-* { background-color: rgba(255,0,0,.2); }
-* * { background-color: rgba(0,255,0,.2); }
-* * * { background-color: rgba(0,0,255,.2); }
-* * * * { background-color: rgba(255,0,255,.2); }
-* * * * * { background-color: rgba(0,255,255,.2); }
-* * * * * * { background-color: rgba(255,255,0,.2); }
-* * * * * * * { background-color: rgba(255,0,0,.2); }
-* * * * * * * * { background-color: rgba(0,255,0,.2); }
-* * * * * * * * * { background-color: rgba(0,0,255,.2); }
+* {
+  background-color: rgba(255, 0, 0, 0.2);
+}
+* * {
+  background-color: rgba(0, 255, 0, 0.2);
+}
+* * * {
+  background-color: rgba(0, 0, 255, 0.2);
+}
+* * * * {
+  background-color: rgba(255, 0, 255, 0.2);
+}
+* * * * * {
+  background-color: rgba(0, 255, 255, 0.2);
+}
+* * * * * * {
+  background-color: rgba(255, 255, 0, 0.2);
+}
+* * * * * * * {
+  background-color: rgba(255, 0, 0, 0.2);
+}
+* * * * * * * * {
+  background-color: rgba(0, 255, 0, 0.2);
+}
+* * * * * * * * * {
+  background-color: rgba(0, 0, 255, 0.2);
+}
 ```
 
 ## Using CSS to highlight images with no alt tags
