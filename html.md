@@ -9,3 +9,6 @@
 [html & css is hard](https://internetingishard.com/html-and-css/)
 
 [Semantic HTML](https://internetingishard.com/html-and-css/semantic-html/)
+
+
+[Email Marketing Resources](https://thebetter.email/resources)
