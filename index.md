@@ -16,6 +16,8 @@
 
 ## [html](html.md)
 
+## [http](http.md)
+
 ## [js](js.md)
 
 ## [linux](linux.md)
