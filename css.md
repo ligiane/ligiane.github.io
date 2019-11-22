@@ -12,6 +12,8 @@
 
 [Slides](https://estelle.github.io/cssmastery)
 
+[Train your CSS skills with online games](https://dev.to/paco_ita/train-your-css-skills-with-online-games-4ah3)
+
 ## Selectors
 
 [CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp)
@@ -21,8 +23,6 @@
 [Slides](https://estelle.github.io/cssmastery/selectors/#slide1)
 
 [Specifishity](http://specifishity.com/specifishity.pdf)
-
-[CSS Diner](https://flukeout.github.io/)
 
 [Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
 
