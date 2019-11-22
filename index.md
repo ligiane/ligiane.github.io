@@ -16,6 +16,8 @@
 
 ## [js](js.md)
 
+## [linux](linux.md)
+
 ## [react](react.md)
 
 ## [sass](sass.md)
