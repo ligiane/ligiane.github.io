@@ -10,7 +10,7 @@
 
 [CSS Reference - W3C](https://www.w3schools.com/cssref/)
 
-[Slides](https://estelle.github.io/cssmastery)
+[Estelle Weyl - Slides](https://estelle.github.io/cssmastery)
 
 [Train your CSS skills with online games](https://dev.to/paco_ita/train-your-css-skills-with-online-games-4ah3)
 
