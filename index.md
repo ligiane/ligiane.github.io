@@ -1,6 +1,10 @@
 # Index
 
-[https://free-for.dev](Free for developers)
+---
+
+[Free for developers](https://free-for.dev)
+
+---
 
 ## [a11y](a11y.md)
 
