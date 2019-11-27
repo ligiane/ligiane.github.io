@@ -1,5 +1,11 @@
 # CSS
 
+* **Box model:** Todo elemento no HTML é uma caixa. Controlamos seu tamanho com width, sua borda com border e ainda temos as margens externas e internas com margin e padding. Box model é como todas essas propriedades se relacionam pra determinar o tamanho final do elemento.
+
+* **box-sizing: border-box:** indica que o tamanho da caixa levará em conta a borda -- ou seja, o width será a soma do conteúdo com a borda e o padding, diferente do comportamento padrão do box model.
+
+---
+
 [CSS first steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
 
 [Reference - Codrops](https://tympanus.net/codrops/css_reference/)
